@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb72cd42-1419-40a5-9b89-f981d5fca7df" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H2CXAKf3aIBVrIhWJQCjqgrJPo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sleep23/Desktop/Projects/Codes/SleepyBlog",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/sleep23/Desktop/Projects/Codes/sleepy-blog/server/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="fb72cd42-1419-40a5-9b89-f981d5fca7df" name="변경" comment="" />
+      <created>1667473828226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667473828226</updated>
+      <workItem from="1667473829313" duration="906000" />
+      <workItem from="1667474746694" duration="150000" />
+      <workItem from="1667481882678" duration="7109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lib/remark-extract-frontmatter.js" />
+        <option value="$PROJECT_DIR$/lib/remark-code-title.js" />
+        <option value="$PROJECT_DIR$/lib/remark-toc-headings.js" />
+        <option value="$PROJECT_DIR$/lib/remark-img-to-jsx.js" />
+        <option value="$PROJECT_DIR$/data/projectsData.js" />
+        <option value="$PROJECT_DIR$/data/headerNavLinks.js" />
+        <option value="$PROJECT_DIR$/pages/404.js" />
+        <option value="$PROJECT_DIR$/pages/_app.js" />
+        <option value="$PROJECT_DIR$/pages/blog.js" />
+        <option value="$PROJECT_DIR$/pages/about.js" />
+        <option value="$PROJECT_DIR$/pages/index.js" />
+        <option value="$PROJECT_DIR$/pages/tags.js" />
+        <option value="$PROJECT_DIR$/pages/_document.js" />
+        <option value="$PROJECT_DIR$/pages/projects.js" />
+        <option value="$PROJECT_DIR$/layouts/ListLayout.js" />
+        <option value="$PROJECT_DIR$/layouts/PostSimple.js" />
+        <option value="$PROJECT_DIR$/layouts/AuthorLayout.js" />
+        <option value="$PROJECT_DIR$/layouts/PostLayout.js" />
+        <option value="$PROJECT_DIR$/components/TOCInline.js" />
+        <option value="$PROJECT_DIR$/components/SectionContainer.js" />
+        <option value="$PROJECT_DIR$/components/PageTitle.js" />
+        <option value="$PROJECT_DIR$/components/Footer.js" />
+        <option value="$PROJECT_DIR$/components/ScrollTopAndComment.js" />
+        <option value="$PROJECT_DIR$/components/Pre.js" />
+        <option value="$PROJECT_DIR$/components/Card.js" />
+        <option value="$PROJECT_DIR$/components/LayoutWrapper.js" />
+        <option value="$PROJECT_DIR$/components/Pagination.js" />
+        <option value="$PROJECT_DIR$/components/NewsletterForm.js" />
+        <option value="$PROJECT_DIR$/components/ThemeSwitch.js" />
+        <option value="$PROJECT_DIR$/components/Image.js" />
+        <option value="$PROJECT_DIR$/components/Link.js" />
+        <option value="$PROJECT_DIR$/components/MDXComponents.js" />
+        <option value="$PROJECT_DIR$/components/Tag.js" />
+        <option value="$PROJECT_DIR$/components/SEO.js" />
+        <option value="$PROJECT_DIR$/components/MobileNav.js" />
+        <option value="$PROJECT_DIR$/lib/utils/htmlEscaper.js" />
+        <option value="$PROJECT_DIR$/lib/utils/files.js" />
+        <option value="$PROJECT_DIR$/lib/utils/formatDate.js" />
+        <option value="$PROJECT_DIR$/lib/utils/kebabCase.js" />
+        <option value="$PROJECT_DIR$/pages/api/convertkit.js" />
+        <option value="$PROJECT_DIR$/pages/api/mailchimp.js" />
+        <option value="$PROJECT_DIR$/pages/api/revue.js" />
+        <option value="$PROJECT_DIR$/pages/api/buttondown.js" />
+        <option value="$PROJECT_DIR$/pages/api/klaviyo.js" />
+        <option value="$PROJECT_DIR$/pages/blog/[...slug].js" />
+        <option value="$PROJECT_DIR$/pages/tags/[tag].js" />
+        <option value="$PROJECT_DIR$/components/comments/index.js" />
+        <option value="$PROJECT_DIR$/components/comments/Utterances.js" />
+        <option value="$PROJECT_DIR$/components/comments/Disqus.js" />
+        <option value="$PROJECT_DIR$/components/comments/Giscus.js" />
+        <option value="$PROJECT_DIR$/components/analytics/index.js" />
+        <option value="$PROJECT_DIR$/components/analytics/Umami.js" />
+        <option value="$PROJECT_DIR$/components/analytics/Plausible.js" />
+        <option value="$PROJECT_DIR$/components/analytics/GoogleAnalytics.js" />
+        <option value="$PROJECT_DIR$/components/analytics/SimpleAnalytics.js" />
+        <option value="$PROJECT_DIR$/components/social-icons/index.js" />
+        <option value="$PROJECT_DIR$/pages/blog/page/[page].js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
