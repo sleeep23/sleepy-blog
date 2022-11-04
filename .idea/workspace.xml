@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb72cd42-1419-40a5-9b89-f981d5fca7df" name="변경" comment="" />
+    <list default="true" id="fb72cd42-1419-40a5-9b89-f981d5fca7df" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/sleep23/Desktop/Projects/Codes/SleepyBlog",
+    "last_opened_file_path": "/Users/sleep23/Desktop/Projects/Codes/sleepy-blog",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "/Users/sleep23/Desktop/Projects/Codes/sleepy-blog/server/node_modules/typescript/lib",
@@ -41,7 +43,8 @@
       <updated>1667473828226</updated>
       <workItem from="1667473829313" duration="906000" />
       <workItem from="1667474746694" duration="150000" />
-      <workItem from="1667481882678" duration="7109000" />
+      <workItem from="1667481882678" duration="7679000" />
+      <workItem from="1667528304903" duration="328000" />
     </task>
     <servers />
   </component>
